@@ -12,7 +12,10 @@
 /coverage
 
 # production
-
+.env
+env
+./env
+/env
 
 
 # misc
